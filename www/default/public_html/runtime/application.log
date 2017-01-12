@@ -1,0 +1,603 @@
+2017/01/13 01:14:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:15:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:15:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:17:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:17:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:20:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:20:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:20:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:20:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/
+---
+2017/01/13 01:22:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "taskpool"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('taskpool')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=taskpool
+---
+2017/01/13 01:22:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site/index"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('site/index')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=site/index
+---
+2017/01/13 01:22:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "task/index"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/index')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=task/index
+---
+2017/01/13 01:22:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "task/index"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/index')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=task/index
+---
+2017/01/13 01:22:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "task/index"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/index')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/?r=task/index
+---
+2017/01/13 01:23:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site/index"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('site/index')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=site/index
+---
+2017/01/13 01:23:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message '无法解析请求 "site/index"。' in /var/www/taskpool/yii/framework/web/CWebApplication.php:280
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('site/index')
+#1 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#2 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=site/index
+---
+2017/01/13 01:29:24 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/taskpool/public_html/assets" 是无效的. 请确定它是一个可被 Web server process 写入资料的目录.' in /var/www/taskpool/yii/framework/web/CAssetManager.php:116
+Stack trace:
+#0 /var/www/taskpool/yii/framework/web/CAssetManager.php(101): CAssetManager->setBasePath('/var/www/taskpo...')
+#1 /var/www/taskpool/yii/framework/web/CAssetManager.php(219): CAssetManager->getBasePath()
+#2 /var/www/taskpool/yii/framework/web/CClientScript.php(449): CAssetManager->publish('/var/www/taskpo...')
+#3 /var/www/taskpool/yii/framework/web/CClientScript.php(486): CClientScript->getCoreScriptUrl()
+#4 /var/www/taskpool/yii/framework/web/CClientScript.php(302): CClientScript->getPackageBaseUrl('jquery')
+#5 /var/www/taskpool/yii/framework/web/CClientScript.php(195): CClientScript->renderCoreScripts()
+#6 /var/www/taskpool/yii/framework/web/CController.php(352): CClientScript->render('<!DOCTYPE html ...')
+#7 /var/www/taskpool/yii/framework/web/CController.php(789): CController->processOutput('<!DOCTYPE html ...')
+#8 /var/www/taskpool/htdocs/protected/controllers/SiteController.php(129): CController->render('login', Array)
+#9 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#10 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#13 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('login')
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('site/login')
+#16 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://task.weiou.com/index.php?r=site/index
+---
+2017/01/13 01:40:58 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'realname' at row 1. The SQL statement executed was: INSERT INTO `user` (`realname`, `passwd`, `email`, `username`) VALUES (:yp0, :yp1, :yp2, :yp3).
+2017/01/13 01:40:58 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'realname' at row 1' in /var/www/taskpool/yii/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1014): CDbCommand->execute()
+#1 /var/www/taskpool/htdocs/protected/components/UserIdentity.php(84): CActiveRecord->insert()
+#2 /var/www/taskpool/htdocs/protected/models/LoginForm.php(57): UserIdentity->authenticate()
+#3 /var/www/taskpool/yii/framework/validators/CInlineValidator.php(43): LoginForm->authenticate('password', Array)
+#4 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#5 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(LoginForm), NULL)
+#6 /var/www/taskpool/htdocs/protected/controllers/SiteController.php(125): CModel->validate()
+#7 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#8 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#10 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('login')
+#13 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('site/login')
+#14 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://task.weiou.com/index.php?r=site/login
+---
+2017/01/13 01:41:15 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'realname' at row 1. The SQL statement executed was: INSERT INTO `user` (`realname`, `passwd`, `email`, `username`) VALUES (:yp0, :yp1, :yp2, :yp3).
+2017/01/13 01:41:15 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'realname' at row 1' in /var/www/taskpool/yii/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1014): CDbCommand->execute()
+#1 /var/www/taskpool/htdocs/protected/components/UserIdentity.php(84): CActiveRecord->insert()
+#2 /var/www/taskpool/htdocs/protected/models/LoginForm.php(57): UserIdentity->authenticate()
+#3 /var/www/taskpool/yii/framework/validators/CInlineValidator.php(43): LoginForm->authenticate('password', Array)
+#4 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CInlineValidator->validateAttribute(Object(LoginForm), 'password')
+#5 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(LoginForm), NULL)
+#6 /var/www/taskpool/htdocs/protected/controllers/SiteController.php(125): CModel->validate()
+#7 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionLogin()
+#8 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#10 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('login')
+#13 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('site/login')
+#14 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=site/login
+HTTP_REFERER=http://task.weiou.com/index.php?r=site/login
+---
+2017/01/13 01:44:45 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:49 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:50 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:52 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:56 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:57 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:58 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/web/widgets/CActiveForm.php(753): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(195): CActiveForm::validate(Object(Task))
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:44:58 [error] [exception.CException] exception 'CException' with message '属性 "Task.audit_message" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('audit_message')
+#1 /var/www/taskpool/yii/framework/validators/CStringValidator.php(80): CActiveRecord->__get('audit_message')
+#2 /var/www/taskpool/yii/framework/validators/CValidator.php(197): CStringValidator->validateAttribute(Object(Task), 'audit_message')
+#3 /var/www/taskpool/yii/framework/base/CModel.php(158): CValidator->validate(Object(Task), NULL)
+#4 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(786): CModel->validate(NULL)
+#5 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(200): CActiveRecord->save()
+#6 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#7 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#8 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#10 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#14 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#15 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#17 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#18 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#19 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:57:31 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[HY000]: General error: 1364 Field 'remark' doesn't have a default value. The SQL statement executed was: INSERT INTO `task` (`status_update_time`, `status_counter`, `winner_id`, `subject`, `description`, `gain`, `man_hour`, `dateline`, `difficulty`, `create_time`, `update_time`, `user_id`, `status`, `credit`) VALUES (:yp0, :yp1, :yp2, :yp3, :yp4, :yp5, :yp6, :yp7, :yp8, :yp9, :yp10, :yp11, :yp12, :yp13).
+2017/01/13 01:57:31 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[HY000]: General error: 1364 Field 'remark' doesn't have a default value' in /var/www/taskpool/yii/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1014): CDbCommand->execute()
+#1 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#2 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(200): CActiveRecord->save()
+#3 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#4 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#13 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#14 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 01:59:09 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'taskpool.task_grade' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `task_grade`.
+2017/01/13 01:59:09 [error] [exception.CDbException] exception 'CDbException' with message '数据库中无法找到 active record class "TaskGrade" 对应的 table "task_grade".' in /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php:2264
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(TaskGrade))
+#1 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(394): CActiveRecord::model('TaskGrade')
+#2 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(78): CActiveRecord->getMetaData()
+#3 /var/www/taskpool/htdocs/protected/models/Task.php(212): CActiveRecord->__construct()
+#4 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1034): Task->afterSave()
+#5 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#6 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(200): CActiveRecord->save()
+#7 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#8 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#9 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#10 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#11 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#12 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#14 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#15 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#16 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#17 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#18 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#19 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#20 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 02:04:16 [error] [exception.CException] exception 'CException' with message '属性 "Task.dispatch_time" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(160): CComponent->__set('dispatch_time', 1484244256)
+#1 /var/www/taskpool/htdocs/protected/models/Task.php(372): CActiveRecord->__set('dispatch_time', 1484244256)
+#2 /var/www/taskpool/htdocs/protected/models/Task.php(265): Task->directDispatch('2', false)
+#3 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(230): Task->open()
+#4 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionOpen()
+#5 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#6 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#7 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#8 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#9 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#10 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#11 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#12 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('open')
+#14 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/open')
+#15 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#16 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=task/open
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/index
+---
+2017/01/13 02:06:00 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1-1' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `task_receiver` (`task_id`, `user_id`) VALUES (:yp0, :yp1).
+2017/01/13 02:06:00 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '1-1' for key 'PRIMARY'' in /var/www/taskpool/yii/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1014): CDbCommand->execute()
+#1 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#2 /var/www/taskpool/htdocs/protected/models/TaskReceiver.php(77): CActiveRecord->save(false)
+#3 /var/www/taskpool/htdocs/protected/models/Task.php(585): TaskReceiver->saveFromArray(Array)
+#4 /var/www/taskpool/htdocs/protected/models/Task.php(207): Task->saveTaskReceiver()
+#5 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1034): Task->afterSave()
+#6 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#7 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(200): CActiveRecord->save()
+#8 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#9 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#10 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#11 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#12 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#14 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#15 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#16 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#18 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#19 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#21 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 02:07:32 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `task_receiver` (`task_id`, `user_id`) VALUES (:yp0, :yp1).
+2017/01/13 02:07:32 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand 无法执行 SQL 语句: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '2-1' for key 'PRIMARY'' in /var/www/taskpool/yii/framework/db/CDbCommand.php:354
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1014): CDbCommand->execute()
+#1 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#2 /var/www/taskpool/htdocs/protected/models/TaskReceiver.php(77): CActiveRecord->save(false)
+#3 /var/www/taskpool/htdocs/protected/models/Task.php(585): TaskReceiver->saveFromArray(Array)
+#4 /var/www/taskpool/htdocs/protected/models/Task.php(207): Task->saveTaskReceiver()
+#5 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(1034): Task->afterSave()
+#6 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(787): CActiveRecord->insert(NULL)
+#7 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(200): CActiveRecord->save()
+#8 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAdd()
+#9 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#10 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#11 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#12 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#13 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#14 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#15 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#16 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#17 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('add')
+#18 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/add')
+#19 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#20 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#21 {main}
+REQUEST_URI=/index.php?r=task/add
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/add
+---
+2017/01/13 02:08:58 [error] [exception.CException] exception 'CException' with message '属性 "Task.done_time" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:174
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(160): CComponent->__set('done_time', 1484244538)
+#1 /var/www/taskpool/htdocs/protected/models/Task.php(282): CActiveRecord->__set('done_time', 1484244538)
+#2 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(326): Task->done()
+#3 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionDone()
+#4 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('done')
+#13 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/done')
+#14 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=task/done
+HTTP_REFERER=http://task.weiou.com/index.php?r=task%2Ftodone&taskId=4&yt0=%E5%B9%B2%E5%AE%8C%E4%BA%86%21
+---
+2017/01/13 02:10:34 [error] [exception.CException] exception 'CException' with message '属性 "User.total_score" 未被定义.' in /var/www/taskpool/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /var/www/taskpool/yii/framework/db/ar/CActiveRecord.php(144): CComponent->__get('total_score')
+#1 /var/www/taskpool/htdocs/protected/models/Task.php(306): CActiveRecord->__get('total_score')
+#2 /var/www/taskpool/htdocs/protected/controllers/TaskController.php(347): Task->audit()
+#3 /var/www/taskpool/yii/framework/web/actions/CInlineAction.php(50): TaskController->actionAudit()
+#4 /var/www/taskpool/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#5 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 /var/www/taskpool/yii/framework/web/filters/CFilter.php(41): CFilterChain->run()
+#7 /var/www/taskpool/yii/framework/web/CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 /var/www/taskpool/yii/framework/web/filters/CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/taskpool/yii/framework/web/filters/CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/taskpool/yii/framework/web/CController.php(292): CFilterChain->run()
+#11 /var/www/taskpool/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/taskpool/yii/framework/web/CWebApplication.php(276): CController->run('audit')
+#13 /var/www/taskpool/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('task/audit')
+#14 /var/www/taskpool/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#15 /var/www/taskpool/public_html/index.php(14): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=task/audit
+HTTP_REFERER=http://task.weiou.com/index.php?r=task/view&id=4
+---
+2017/01/12 22:42:25 [error] [exception.CDbException] SQLSTATE[42000] [1049] Unknown database 'taskpool'
+2017/01/12 22:42:25 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection连接数据库失败' in /var/www/default/yii/framework/db/CDbConnection.php:388
+Stack trace:
+#0 /var/www/default/yii/framework/db/CDbConnection.php(331): CDbConnection->open()
+#1 /var/www/default/yii/framework/db/CDbConnection.php(309): CDbConnection->setActive(true)
+#2 /var/www/default/yii/framework/base/CModule.php(388): CDbConnection->init()
+#3 /var/www/default/yii/framework/base/CApplication.php(431): CModule->getComponent('db')
+#4 /var/www/default/yii/framework/db/ar/CActiveRecord.php(615): CApplication->getDb()
+#5 /var/www/default/yii/framework/db/ar/CActiveRecord.php(2263): CActiveRecord->getDbConnection()
+#6 /var/www/default/yii/framework/db/ar/CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Rank))
+#7 /var/www/default/htdocs/protected/models/Rank.php(44): CActiveRecord::model('Rank')
+#8 /var/www/default/htdocs/protected/controllers/SiteController.php(58): Rank::model()
+#9 /var/www/default/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionIndex()
+#10 /var/www/default/yii/framework/web/CController.php(309): CInlineAction->runWithParams(Array)
+#11 /var/www/default/yii/framework/web/filters/CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 /var/www/default/yii/framework/web/CController.php(292): CFilterChain->run()
+#13 /var/www/default/yii/framework/web/CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/default/yii/framework/web/CWebApplication.php(276): CController->run('')
+#15 /var/www/default/yii/framework/web/CWebApplication.php(135): CWebApplication->runController('')
+#16 /var/www/default/yii/framework/base/CApplication.php(162): CWebApplication->processRequest()
+#17 /var/www/default/public_html/index.php(14): CApplication->run()
+#18 {main}
+REQUEST_URI=/
+---

@@ -1,0 +1,6 @@
+.pagenum {padding:25px 0;text-align:center;}
+.pagenum a,.pagenum em {display:inline-block;height:27px;margin:0 2px 0 3px;padding:0 10px;border:1px solid #D2F0FB;box-shadow:1px 1px 0 #FFF inset;border-radius:2px;background:#F5FDFF;color:#2376CB !important;text-align:center;line-height:27px;vertical-align:middle;text-decoration:none;}
+.pagenum em {border-color:#E7E7E7;background:#FBFBFB;color:#191919 !important;}
+.pagenum .pagenum_btn,.pagenum a:hover {border-color:#74C8F4;background:#DFF4FF;text-decoration:none;}
+.pagenum input {width:30px;height:20px;margin:0 2px 0 3px;padding:4px 6px 3px;border:1px solid #CECECE;border-radius:2px;box-shadow:1px 2px #EAF6F9 inset;background:#F8F8F8;line-height:20px;vertical-align:middle;font-family:Tahoma, Geneva, sans-serif;}
+.pagenum input:hover {border-color:#60ACE6;background:#F2F9FF;box-shadow:1px 2px #D9EAF7 inset;}
