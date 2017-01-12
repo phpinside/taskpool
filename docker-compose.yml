@@ -1,0 +1,43 @@
+task:
+  build: .
+  ports:
+    - "80:80"
+    - "443:443"
+    - "9000:9000"
+  links:
+    - mysql:mysql
+    - ldap:ldap
+  volumes:
+    - ./www:/var/www
+    - ./sites:/etc/nginx/conf.d
+    - ./logs:/var/log/supervisor
+
+mysql:
+  image: mysql
+  ports:
+    - "3306:3306"
+  environment:
+    MYSQL_ROOT_PASSWORD: my123456
+
+
+ldap:
+  image: nickstenning/slapd
+  ports:
+    - "389:389"
+  environment:
+    LDAP_DOMAIN: intra.denggao.org
+    LDAP_ORGANISATION: "Denggao Ldap Test"
+    LDAP_ROOTPASS: ldap123456
+  volumes:
+    -  ./ldap:/var/lib/ldap
+
+phpldapadmin:
+  image: osixia/phpldapadmin:0.6.12
+  ports:
+    - "6443:443"
+  environment:
+    PHPLDAPADMIN_LDAP_HOSTS: ldap
+  links:
+    - ldap:ldap
+
+

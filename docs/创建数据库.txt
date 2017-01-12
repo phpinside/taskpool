@@ -1,0 +1,11 @@
+
+//创建用户
+mysql> insert into mysql.user(Host,User,Password) values('localhost','phplamp',password('1234'));
+//刷新系统权限表
+mysql>flush privileges;
+
+mysql>create database phplampDB character utf8;
+mysql>grant all privileges on phplampDB.* to phplamp@localhost identified by '1234';
+mysql>flush privileges;
+
+mysql>grant all privileges on tech_0.* to cral@'%' identified by 'hdwiki2012';
