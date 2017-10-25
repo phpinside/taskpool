@@ -28,3 +28,8 @@ https://192.168.100.99:6443/
 【Courier Mail: Account】
 注意：Common Name 就是真实的登录用户名哦！
 
+
+5、需要在宿主机上加一个定时任务：
+*/5 * * * *  docker-compose exec   task  php /var/www/default/public_html/yiic timer start
+
+每5分钟执行一次分发任务的动作。
